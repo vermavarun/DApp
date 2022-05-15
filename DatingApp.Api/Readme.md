@@ -1,1 +1,2 @@
-API backend for SPA
+API backend for SPA.
+Created in dotnet core
